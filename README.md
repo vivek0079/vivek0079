@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek
-- 👀 I’m interested in ***building products***
-- 🌱 I’m currently learning on ***how to build and scale systems***
+- 👀 I’m interested in ***building products that could help make people's lives easier***
+- 🌱 I’m currently learning on ***how to build and scale robust systems***
 - 📫 How to reach me via [twitter](https://twitter.com/vivek_0079) or [email](mailto:vivek.vivek0079@gmail.com)
 
 <!---
