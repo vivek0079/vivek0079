@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivek
-- 👀 I’m interested in ***building products that could help make life of business easire***
+- 👀 I’m interested in ***building products that could help make life of business easier***
 - 🌱 I’m currently learning on ***how to build and scale robust systems***
 
 <!---
