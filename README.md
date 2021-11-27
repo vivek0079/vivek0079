@@ -37,7 +37,7 @@ I'm currently building web applications 🛠 at [Razorpay](https://github.com/ra
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> </p>
 
 ### ⚡ Github Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek0079&show_icons=true&locale=en" alt="vivek0079" alt="vivek0079" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek0079&count_private=true&show_icons=true&theme=monokai&locale=en" alt="vivek0079" /></p>
 
 ### ☄️ Github Streaks:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek0079&" alt="vivek0079" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivek0079&theme=monokai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
