@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://badges.pufler.dev/visits/vivek0079/vivek0079?style=flat-square&color=black&logo=github) ![](https://badges.pufler.dev/repos/vivek0079?style=flat-square&color=black&logo=github)
 
-I'm a software engineer skilled in Java, Data Structures, Algorithms and System Design. I graduated with bachelor's degree in Computer Science 🎓 from Anna University 🏛. I love to explore new technologies and leverage them to solve real-life problems ✨. 
+I'm a software engineer skilled in Java, Data Structures, Algorithms and System Design. I graduated with bachelor's degree in Computer Science 🎓 from Anna University 🏛.
 I'm currently building web applications 🛠 at [Razorpay](https://github.com/razorpay/) and exploring the world of Golang and PHP 🚀.
 
 ### Talking about Personal Stuffs:
@@ -30,6 +30,7 @@ I'm currently building web applications 🛠 at [Razorpay](https://github.com/ra
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
+<a href="https://www.mysql.org" target="_blank" rel="noreferrer" title="MySQL"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer" title="Redis"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
   
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
@@ -37,8 +38,11 @@ I'm currently building web applications 🛠 at [Razorpay](https://github.com/ra
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> </p>
 
 ### ⚡ Github Stats:
-![GitHub](https://github-readme-stats.vercel.app/api?username=vivek0079&locale=en&count_private=true&show_icons=true)
+![GitHub](https://github-readme-stats.vercel.app/api?username=vivek0079&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)
 
 
 ### ☄️ Github Streaks:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivek0079&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivek0079&theme=monokai&hide_border=true)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
