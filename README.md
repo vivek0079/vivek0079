@@ -1,20 +1,9 @@
-## Hey there 👋, I'm [Vivek!](https://github.com/vivek0079/)
+## Hey there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek0079)
-[![Medium Badge](https://img.shields.io/badge/medium%20-%23323330.svg?&style=for-the-badge&logo=lbry&logoColor=white)](https://medium.com/@vivek0079/)
+### Glad to see you here!
 
-### Glad to see you here! &nbsp; ![](https://badges.pufler.dev/visits/vivek0079/vivek0079?style=flat-square&color=black&logo=github) ![](https://badges.pufler.dev/repos/vivek0079?style=flat-square&color=black&logo=github)
-
-I'm a software engineer skilled in Java, Data Structures, Algorithms and System Design. I graduated with bachelor's degree in Computer Science 🎓 from Anna University 🏛.
-I'm currently building web applications 🛠 at [Razorpay](https://github.com/razorpay/) and exploring the world of Golang and PHP 🚀.
-
-### Talking about Personal Stuffs:
-
-- 🛠 &nbsp; I’m currently working with Golang, PHP.
-- 🚀 &nbsp; I’m currently learning about building systems at scale.
-- 📰 &nbsp; I occasionally write blogs at [medium](https://medium.com/@vivek0079).
-- 📫 &nbsp; How to reach me: DM me at [LinkedIn](https://linkedin.com/vivek0079).
-- 📝 &nbsp; Checkout my [Resume]().
+I'm a software engineer skilled in Java, Data Structures, Algorithms and System Design. I graduated with a bachelor's degree in Computer Science 🎓 from Anna University 🏛.
+I'm currently building large-scale applications 🛠 at [Razorpay](https://github.com/razorpay/) 🚀.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
@@ -23,8 +12,6 @@ I'm currently building web applications 🛠 at [Razorpay](https://github.com/ra
 <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
   
-  
-<!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a> -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -40,9 +27,6 @@ I'm currently building web applications 🛠 at [Razorpay](https://github.com/ra
 ### ⚡ Github Stats:
 ![GitHub](https://github-readme-stats.vercel.app/api?username=vivek0079&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)
 
-
 ### ☄️ Github Streaks:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivek0079&theme=monokai&hide_border=true)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
